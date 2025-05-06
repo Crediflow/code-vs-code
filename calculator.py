@@ -10,5 +10,3 @@ if __name__ == "__main__":
     print("Welcome to Calculator!")
     print("Current feature: Addition")
     print("Example: 5 + 3 =", calc.add(5, 3))
-    print("Current feature: Subtraction")
-    print("Example: 5 - 3 =", calc.subtract(5, 3))
