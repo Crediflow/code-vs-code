@@ -7,3 +7,5 @@ if __name__ == "__main__":
     print("Welcome to Calculator!")
     print("Current feature: Addition")
     print("Example: 5 + 3 =", calc.add(5, 3))
+
+    # initial commit for addition
